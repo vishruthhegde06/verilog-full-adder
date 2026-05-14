@@ -9,7 +9,7 @@ This Project implements a 1-bit Full Adder using Verilog HDL.
 - Cin
 
 ##Output
-- um
+- Sum
 - Cout
 
 ##Files
