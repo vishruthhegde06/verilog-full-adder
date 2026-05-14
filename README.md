@@ -1,7 +1,7 @@
 # verilog-full-adder
 
 ##Description
-This Project implements a 1-bit Full Adder using Verilog HDL.
+- This Project implements a 1-bit Full Adder using Verilog HDL.
 
 ##Inputs
 - A
